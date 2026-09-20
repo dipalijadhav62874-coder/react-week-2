@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  padding: 30px;
+}
+
+.title {
+  color: blue;
+  font-size: 32px;
+}
+
+.product {
+  border: 2px solid black;
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: bold;
+}
